@@ -2,6 +2,8 @@
 
 预览地址：https://mrjooz.github.io/password-generator/
 
+默认用woaijk
+
 ## password-generator 是什么？
 
 password-generator 是一款密码生成工具，用户只需要记住记忆密码+区分代码的规则就能记住各类不同密码。
